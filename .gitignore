@@ -15,3 +15,6 @@ airflow/logs/
 
 # Ignore Docker volumes
 postgres_data/
+
+# Ignore GitHub Actions runner files
+actions-runner/
